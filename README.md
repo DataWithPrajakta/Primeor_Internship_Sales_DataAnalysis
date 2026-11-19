@@ -81,6 +81,11 @@ End-to-end analysis of a global e-commerce (superstore) dataset using **Excel, S
 
 ## 7. Dashboard Preview
 
+### Dashboard 1
+![Dashboard 1](PBi1.png)
+
+### Dashboard 2
+![Dashboard 2](PBi2.png)
 
 
 ---
