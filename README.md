@@ -4,7 +4,7 @@ End-to-end analysis of a global e-commerce (superstore) dataset using **Excel, S
 
 ---
 
-## 📌 1. Project Overview
+## 1. Project Overview
 
 - **Company:** Primeor Solutions (data analytics and consulting)
 - **Role:** Data Analytics Intern
@@ -13,7 +13,7 @@ End-to-end analysis of a global e-commerce (superstore) dataset using **Excel, S
 
 ---
 
-## 📂 2. Dataset
+## 2. Dataset
 
 - **Records:** 51,271 order lines (about 25,000 unique orders)
 - **Period:** January 2011 to December 2014
@@ -22,7 +22,7 @@ End-to-end analysis of a global e-commerce (superstore) dataset using **Excel, S
 
 ---
 
-## 🛠️ 3. Tools Used
+## 3. Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -32,7 +32,7 @@ End-to-end analysis of a global e-commerce (superstore) dataset using **Excel, S
 
 ---
 
-## 🔄 4. Project Workflow
+## 4. Project Workflow
 
 ### Level 1: Data Understanding and Cleaning (Excel)
 - Checked and removed duplicate records
@@ -55,7 +55,7 @@ End-to-end analysis of a global e-commerce (superstore) dataset using **Excel, S
 
 ---
 
-## 📊 5. Key Business Insights
+## 5. Key Business Insights
 
 ### Headline Numbers
 | Metric | Value |
@@ -79,42 +79,14 @@ End-to-end analysis of a global e-commerce (superstore) dataset using **Excel, S
 
 ---
 
-## 📁 6. Folder Structure
+## 7. Dashboard Preview
 
-```
-├── README.md
-├── data/        Cleaned dataset and Excel analysis file
-├── sql/         SQL queries file
-├── powerbi/     Power BI dashboard (.pbix)
-├── images/      Dashboard screenshots
-└── report/      Final business insights report (.pdf)
-```
+
 
 ---
 
-## 🖼️ 7. Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
----
-
-## ▶️ 8. How to Use
-
-1. Open the Excel file in `data/` to view the cleaned data and pivot analysis.
-2. Run the queries in `sql/` in any SQL tool after importing the cleaned dataset.
-3. Open the `.pbix` file in `powerbi/` with Power BI Desktop and use the slicers to explore.
-
----
-
-## 🎯 9. Skills Demonstrated
+## 9. Skills Demonstrated
 
 Data cleaning, exploratory analysis, pivot tables, SQL aggregation, KPI design, dashboard storytelling, business insight writing.
 
 ---
-
-## 👩‍💻 10. Author
-
-**Prajakta Sanjay Kadam**
-M.Sc. Statistics, Shivaji University, Kolhapur
-
-`#PrimeorSolutions` `#PrimeorDataAnalytics` `#PrimeorInternship`
